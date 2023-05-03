@@ -2,12 +2,12 @@
 Analyzing an interesting dataset, the Contraceptive Method Choice Data Set, using existing Classification ML methods.
 Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice
 
-##Data Set Information:
+## Data Set Information:
 
 This dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey. The samples are married women who were either not pregnant or do not know if they were at the time of interview. The problem is to predict the current contraceptive method choice (no use, long-term methods, or short-term methods) of a woman based on her demographic and socio-economic characteristics.
 
 
-##Attribute Information:
+## Attribute Information:
 
 1. Wife's age (numerical)
 2. Wife's education (categorical) 1=low, 2, 3, 4=high
